@@ -199,3 +199,13 @@ ul {
     top: 20%;
     text-align: center;
 }
+
+footer {
+    padding: 20px;
+    justify-content: center;
+    width: 100%;
+    background-color: burlywood;
+    text-align: center;
+    color: black;
+    height: 15vh;
+}
